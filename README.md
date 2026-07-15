@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Software Engineer with 3+ years of experience building full-stack web applications and business-critical internal platforms.
+
+I work primarily with React, Next.js, TypeScript, Node.js, Express, Python, Django, FastAPI, PostgreSQL, MySQL, and Prisma. My experience includes designing application workflows, developing REST APIs, building role-based systems, integrating third-party services, and deploying applications on Ubuntu servers using Nginx, Caddy, Gunicorn, and Docker.
+
+Currently contributing to sprynng.com, an Applicant Tracking System and Vendor Management System developed at my current company, where I work on recruitment workflows, candidate management, role-based access, backend APIs, and deployment.
+
+I enjoy solving real-world engineering problems, improving system architecture, and learning technologies related to scalable backend development, AI integrations, and distributed systems.
+
 <!--
 **lakshaysharma99/lakshaysharma99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
